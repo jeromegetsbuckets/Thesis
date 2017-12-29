@@ -1,0 +1,26 @@
+/* CSS Document */
+
+.navbar-default{
+    background-color:#003366;
+    border-color:#977EBD;
+}
+.navbar .brand, .navbar .nav > li > a {
+    color:#CCCCCC;
+}
+.navbar .brand, .navbar .nav > li > a:hover {
+    color:#FFFFFF;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #977EBD;
+    color: #FFFFFF;
+}
+
+a:link {
+    color:#333333;
+}
+a:visited{
+	color:#333333;
+}
+a:hover{
+	color:#999999;
+}
